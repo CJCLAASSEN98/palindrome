@@ -1,0 +1,12 @@
+C:\ProgrammingLocal\Palindrome Problem\src\PalindromeProblem.Palindrome\bin\Debug\netstandard2.0\PalindromeProblem.Palindrome.deps.json
+C:\ProgrammingLocal\Palindrome Problem\src\PalindromeProblem.Palindrome\bin\Debug\netstandard2.0\PalindromeProblem.Palindrome.dll
+C:\ProgrammingLocal\Palindrome Problem\src\PalindromeProblem.Palindrome\bin\Debug\netstandard2.0\PalindromeProblem.Palindrome.pdb
+C:\ProgrammingLocal\Palindrome Problem\src\PalindromeProblem.Palindrome\obj\Debug\netstandard2.0\PalindromeProblem.Palindrome.csprojAssemblyReference.cache
+C:\ProgrammingLocal\Palindrome Problem\src\PalindromeProblem.Palindrome\obj\Debug\netstandard2.0\PalindromeProblem.Palindrome.AssemblyInfoInputs.cache
+C:\ProgrammingLocal\Palindrome Problem\src\PalindromeProblem.Palindrome\obj\Debug\netstandard2.0\PalindromeProblem.Palindrome.AssemblyInfo.cs
+C:\ProgrammingLocal\Palindrome Problem\src\PalindromeProblem.Palindrome\obj\Debug\netstandard2.0\PalindromeProblem.Palindrome.csproj.CoreCompileInputs.cache
+C:\ProgrammingLocal\Palindrome Problem\src\PalindromeProblem.Palindrome\obj\Debug\netstandard2.0\PalindromeProblem.Palindrome.dll
+C:\ProgrammingLocal\Palindrome Problem\src\PalindromeProblem.Palindrome\obj\Debug\netstandard2.0\PalindromeProblem.Palindrome.pdb
+C:\ProgrammingLocal\Palindrome Problem\src\PalindromeProblem.Palindrome\bin\Debug\netstandard2.0\PalindromeProblem.Utils.dll
+C:\ProgrammingLocal\Palindrome Problem\src\PalindromeProblem.Palindrome\bin\Debug\netstandard2.0\PalindromeProblem.Utils.pdb
+C:\ProgrammingLocal\Palindrome Problem\src\PalindromeProblem.Palindrome\obj\Debug\netstandard2.0\PalindromeProblem.Palindrome.csproj.CopyComplete

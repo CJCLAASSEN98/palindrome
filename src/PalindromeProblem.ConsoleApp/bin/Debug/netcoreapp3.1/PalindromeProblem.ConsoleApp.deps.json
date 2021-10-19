@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PalindromeProblem.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "PalindromeProblem.Palindrome": "1.0.0",
+          "PalindromeProblem.Utils": "1.0.0"
+        },
+        "runtime": {
+          "PalindromeProblem.ConsoleApp.dll": {}
+        }
+      },
+      "PalindromeProblem.Palindrome/1.0.0": {
+        "dependencies": {
+          "PalindromeProblem.Utils": "1.0.0"
+        },
+        "runtime": {
+          "PalindromeProblem.Palindrome.dll": {}
+        }
+      },
+      "PalindromeProblem.Utils/1.0.0": {
+        "runtime": {
+          "PalindromeProblem.Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PalindromeProblem.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PalindromeProblem.Palindrome/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PalindromeProblem.Utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
